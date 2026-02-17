@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: rgb(111, 5, 5);
+    
+}
+p{
+    color: darkgrey;
+}
+h2{
+   text-align: center;
+   color: rgb(111, 5, 5);
+     
+}
+.GEN{
+    text-align: left;
+}
+li{
+    color: rgb(206, 86, 0);
+}
