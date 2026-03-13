@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
+p{
+    color: darkgrey;
+}
+h2{
+   text-align: center;
+   color: rgb(255, 255, 255);
+     
+}
+.GEN{
+    text-align: left;
+}
+li{
+    color: rgb(255, 255, 255);
+}
+.img0{
+    width: 700px;
+    height: 300px;
+}
+strong{
+    color: rgb(255, 255, 255);
+}
+
+th, td{
+padding: 1px;
+border: 1px solid black;
+}
+
